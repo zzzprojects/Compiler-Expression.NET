@@ -10,7 +10,7 @@ This library is used in almost all ZZZ Projects to dynamically compile code at r
 int result = Eval.Execute<int>("X + Y", new { X = 1, Y = 2});
 ```
 
-**[Learn more](http://eval-expression.net)**
+**[Learn more](https://github.com/zzzprojects/Eval-Expression.NET)**
 
 ### Eval SQL.NET
 **Evaluate C# code and expression in T-SQL stored procedure, function and trigger.**
@@ -26,7 +26,7 @@ BEGIN
 END
 ```
 
-**[Learn more](https://github.com/zzzprojects/Compiler-Expression.NET/wiki)**
+**[Learn more](https://github.com/zzzprojects/Eval-SQL.NET)**
 
 ## Download
 <a href="https://www.nuget.org/packages/Z.Expressions.Compiler/" target="_blank" alt="download nuget"><img src="https://img.shields.io/nuget/v/Z.Expressions.Compiler.svg?style=flat-square" /></a>
