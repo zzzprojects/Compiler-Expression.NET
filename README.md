@@ -1,13 +1,13 @@
 ## Code Analysis and Code Compiler for ZZZ Projects Library
 
 ### Eval Expression.NET
-**Evaluate, Compile and Execute C# code and expression at runtime**
+**Evaluate, Compile and Execute C# code and expression at runtime.**
 ```csharp
 int result = Eval.Execute<int>("X + Y", new { X = 1, Y = 2});
 ```
 
 ### Eval SQL.NET
-**Evaluate C# code and expression in T-SQL stored procedure, function and trigger**
+**Evaluate C# code and expression in T-SQL stored procedure, function and trigger.**
 ```sql
 CREATE PROCEDURE [dbo].[select_formula]
 AS
