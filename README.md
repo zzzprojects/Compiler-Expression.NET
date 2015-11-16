@@ -24,15 +24,6 @@ BEGIN
 END
 ```
 
-## Download
-<a href="https://www.nuget.org/packages/Z.Expressions.Compiler/" target="_blank" alt="download nuget"><img src="https://img.shields.io/nuget/v/Z.Expressions.Compiler.svg?style=flat-square" /></a>
-<a href="https://www.nuget.org/packages/Z.Expressions.Compiler/" target="_blank" alt="download nuget"><img src="https://img.shields.io/nuget/dt/Z.Expressions.Compiler.svg?style=flat-square" /></a>
-
-```
-PM> Install-Package Z.Expressions.Compiler
-```
-*FREE Version - up to 50 characters
-
 ## Support
 Contact our outstanding customer support for any request. We usually answer within the next business day, hour, or minutes!
 
