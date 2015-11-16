@@ -1,10 +1,16 @@
 ## Code Analysis and Code Compiler for ZZZ Projects Library
+This library is used in almost all ZZZ Projects to dynamically compile code at runtime using expression tree.
+- [Eval Expression.NET](http://eval-expression.net/)
+- [Eval SQL.NET](http://eval-sql.net/)
+
 
 ### Eval Expression.NET
 **Evaluate, Compile and Execute C# code and expression at runtime.**
 ```csharp
 int result = Eval.Execute<int>("X + Y", new { X = 1, Y = 2});
 ```
+
+**[Learn more](http://eval-expression.net)**
 
 ### Eval SQL.NET
 **Evaluate C# code and expression in T-SQL stored procedure, function and trigger.**
@@ -19,6 +25,8 @@ BEGIN
 	FROM TableFormula
 END
 ```
+
+**[Learn more](https://github.com/zzzprojects/Compiler-Expression.NET/wiki)**
 
 ## Download
 <a href="https://www.nuget.org/packages/Z.Expressions.Compiler/" target="_blank" alt="download nuget"><img src="https://img.shields.io/nuget/v/Z.Expressions.Compiler.svg?style=flat-square" /></a>
