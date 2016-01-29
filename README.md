@@ -39,14 +39,6 @@ PM> Install-Package Z.Expressions.Compiler
 ```
 *FREE Version - up to 50 characters
 
-## Support
-Contact our outstanding customer support for any request. We usually answer within the next business day, hour, or minutes!
-
-- [Website](http://eval-sql.net/)
-- [Documentation](https://github.com/zzzprojects/Eval-SQL.NET/wiki)
-- [Forum](http://zzzprojects.uservoice.com/forums/328452-eval-sql-net)
-- sales@zzzprojects.com
-
 ## Contributing
 _You received support from us and/or the FREE version helped you?_
 
