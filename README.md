@@ -56,7 +56,7 @@ Contribution isn't all about money!
  - Fork it
  - Star it
  - Share it
- - 
+ 
 A **HUGE thanks** for your extra support.
 
 ## More Projects
