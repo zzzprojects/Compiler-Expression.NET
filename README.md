@@ -31,12 +31,13 @@ END
 ## Download
 > This library is not intended to be directy used, if you want to evaluate expression, see [Eval Expression.NET](http://eval-expression.net/) instead.
 
-<a href="https://www.nuget.org/packages/Z.Expressions.Compiler/" target="_blank" alt="download nuget"><img src="https://img.shields.io/nuget/v/Z.Expressions.Compiler.svg?style=flat-square" /></a>
-<a href="https://www.nuget.org/packages/Z.Expressions.Compiler/" target="_blank" alt="download nuget"><img src="https://img.shields.io/nuget/dt/Z.Expressions.Compiler.svg?style=flat-square" /></a>
+<a href="https://www.nuget.org/packages/Z.Expressions.Compiler/" target="_blank"><img src="http://entityframework-plus.net/images/nuget/compiler-expression-net-v.svg" alt="download" /></a>
+<a href="https://www.nuget.org/packages/Z.Expressions.Compiler/" target="_blank"><img src="http://entityframework-plus.net/images/nuget/compiler-expression-net-d.svg" alt="" /></a>
 
 ```
 PM> Install-Package Z.Expressions.Compiler
 ```
+
 *FREE Version - up to 50 characters
 
 Stay updated with latest changes
