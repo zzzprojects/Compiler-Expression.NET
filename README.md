@@ -45,20 +45,16 @@ Stay updated with latest changes
 <a href="https://twitter.com/zzzprojects" target="_blank"><img src="http://www.zzzprojects.com/images/twitter_follow.png" alt="Twitter Follow" height="24" /></a>
 <a href="https://www.facebook.com/zzzprojects/" target="_blank"><img src="http://www.zzzprojects.com/images/facebook_like.png" alt="Facebook Like" height="24" /></a>
 
-## Contribution
+## Contribute
+The best way to contribute is by **spreading the word** about the library:
 
-Supporting & developing FREE features takes **hundreds** and **thousands** of hours! If you like our product please consider making a donation to keep us running.
-
-<a href="http://www.zzzprojects.com/contribute/" target="_blank"><img src="http://www.zzzprojects.com/images/paypal-contribute-2.png" alt="Contribute" height="48"></a>
-
-Contribution isn't all about money!
  - Blog it
  - Comment it
  - Fork it
  - Star it
  - Share it
  
-A **HUGE thanks** for your extra support.
+A **HUGE THANK** for your help.
 
 ## More Projects
 
