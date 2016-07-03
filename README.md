@@ -31,8 +31,8 @@ END
 ## Download
 > This library is not intended to be directy used, if you want to evaluate expression, see [Eval Expression.NET](http://eval-expression.net/) instead.
 
-<a href="https://www.nuget.org/packages/Z.Expressions.Compiler/" target="_blank"><img src="http://entityframework-plus.net/images/nuget/compiler-expression-net-v.svg" alt="download" /></a>
-<a href="https://www.nuget.org/packages/Z.Expressions.Compiler/" target="_blank"><img src="http://entityframework-plus.net/images/nuget/compiler-expression-net-d.svg" alt="" /></a>
+<a href="https://www.nuget.org/packages/Z.Expressions.Compiler/" target="_blank"><img src="https://zzzprojects.github.io/images/nuget/compiler-expression-net-v.svg" alt="download" /></a>
+<a href="https://www.nuget.org/packages/Z.Expressions.Compiler/" target="_blank"><img src="https://zzzprojects.github.io/images/nuget/compiler-expression-net-d.svg" alt="" /></a>
 
 ```
 PM> Install-Package Z.Expressions.Compiler
