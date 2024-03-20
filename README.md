@@ -46,11 +46,11 @@ Stay updated with latest changes
 <a href="https://www.facebook.com/zzzprojects/" target="_blank"><img src="http://www.zzzprojects.com/images/facebook_like.png" alt="Facebook Like" height="24" /></a>
 
 ## Contribute
+
 The best way to contribute is by **spreading the word** about the library:
 
  - Blog it
  - Comment it
- - Fork it
  - Star it
  - Share it
  
@@ -58,22 +58,17 @@ A **HUGE THANKS** for your help.
 
 ## More Projects
 
-**Entity Framework**
-- [EntityFramework Extensions](https://entityframework-extensions.net/)
-- [EntityFramework Plus](https://entityframework-plus.net)
+- Projects:
+   - [EntityFramework Extensions](https://entityframework-extensions.net/)
+   - [Dapper Plus](https://dapper-plus.net/)
+   - [C# Eval Expression](https://eval-expression.net/)
+- Learn Websites
+   - [Learn EF Core](https://www.learnentityframeworkcore.com/)
+   - [Learn Dapper](https://www.learndapper.com/)
+- Online Tools:
+   - [.NET Fiddle](https://dotnetfiddle.net/)
+   - [SQL Fiddle](https://sqlfiddle.com/)
+   - [ZZZ Code AI](https://zzzcode.ai/)
+- and much more!
 
-**Bulk Operations**
-- [Bulk Operations](https://bulk-operations.net/)
-- [Dapper Plus](https://dapper-plus.net/)
-
-**Expression Evaluator**
-- [Eval-SQL.NET](https://eval-sql.net/)
-- [Eval-Expression.NET](https://eval-expression.net/)
-
-**Utilities**
-- [Extension Methods Library](https://github.com/zzzprojects/Z.ExtensionMethods/)
-- [Html Agility Pack](https://html-agility-pack.net/)
-
-**Need more info?** info@zzzprojects.com
-
-Contact our outstanding customer support for any request. We usually answer within the next business day, hour, or minutes!
+To view all our free and paid projects, visit our website [ZZZ Projects](https://zzzprojects.com/).
